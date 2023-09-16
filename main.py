@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 from io import BytesIO
 from datetime import datetime
 
-api_key = "bc59e78375b027cd2409cb39f37b847b"
+api_key = "Enter your API_Key"
 custom_font = ("Comic Sans MS", 13, "bold")
 custom_font2 = ("Comic Sans MS", 13, "normal")
 datalar = {}
